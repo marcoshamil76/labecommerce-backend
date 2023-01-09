@@ -1,0 +1,24 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "Ammal Backend",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "parImpar":"node par-ou-impar.js 2 par"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoshamil76/labecommerce-backend.git"
+  },
+  "keywords": [
+    "mhs"
+  ],
+  "author": "Marcos Hamilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoshamil76/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/marcoshamil76/labecommerce-backend#readme"
+}
